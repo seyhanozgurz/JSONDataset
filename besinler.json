@@ -82,10 +82,25 @@
   {
     "isim": "Ağlayan Beyza",
     "kalori": "99999 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 12.4 gram",
-    "protein": "Protein: 0.2 gram",
-    "yag": "Yag: 0.1 gram",
+    "karbonhidrat": "dikkatli davranmak gerekir",
+    "protein": "Ağladığında ayrı tatlı olur",
+    "yag": "ilgi gerekir",
     "gorsel": "https://raw.githubusercontent.com/seyhanozgurz/JSONDataset/main/aglayanbeyza.jpg"
+  },
+  {
+    "isim": "Tatlı Beyza",
+    "kalori": "Zararsız, pamuk gibi",
+    "karbonhidrat": "Çok tatlıdır",
+    "protein": "Huyuna gidilirse zararsızdır",
+    "yag": "Gezmeye bayılır",
+    "gorsel": "https://raw.githubusercontent.com/seyhanozgurz/JSONDataset/main/beyza.jpg"
+  },
+  {
+    "isim": "Kusan Beyza",
+    "kalori": "-1000 Kilokalori",
+    "karbonhidrat": "Kötü kokabilir",
+    "protein": "Midesi boşalmıştır, bu yüzden çok öfke barındırır",
+    "yag": "yine de tatlıdır",
+    "gorsel": "https://raw.githubusercontent.com/seyhanozgurz/JSONDataset/main/kusanbeyza.jpg"
   }
-  
 ]
